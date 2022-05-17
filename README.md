@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessargood
-- 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently learning pentesting and programming languages.
+- 👀 I’m interested in becoming a software developer!
+- 🌱 I’m currently learning coding through freecodecamp.com.
 - 💞️ I’m looking to collaborate on beginnger level projects.
 
 <!---
