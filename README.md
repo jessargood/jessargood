@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessargood
 - 👀 I’m interested in becoming a software developer!
-- 🌱 I’m currently learning by completeing lessons found on freecodecamp.com.
+- 🌱 I’m currently learning programming languages by completeing lessons found on freecodecamp.com.
 - 💞️ I’m looking to collaborate on beginnger level projects.
 
 <!---
