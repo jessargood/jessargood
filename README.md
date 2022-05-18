@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jessargood
+- 👋 Hi, I’m @jessargood, AKA "Good-Oh"
 - 👀 I’m interested in becoming a software developer!
-- 🌱 I’m currently learning programming languages by completeing lessons found on freecodecamp.com.
-- 💞️ I’m looking to collaborate on beginnger level projects.
+- 🌱 I’m currently learning and self teaching myself programming languages.
 
 <!---
 jessargood/jessargood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
