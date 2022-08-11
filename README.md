@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessargood, AKA "Good-Oh"
-- 👀 I’m interested in becoming a software developer!
+- 👀 I’m interested in cybersecurity!
 - 🌱 I’m currently learning and self teaching myself programming languages.
 
 <!---
